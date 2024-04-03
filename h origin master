@@ -1,0 +1,44 @@
+[33mcommit becdce2eea03efe3fddcd30dc3d304258be5aa28[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: phamducmanh3224 <phamducmanh3224@gmail.com>
+Date:   Wed Apr 3 14:19:10 2024 +0700
+
+    guitar dem hat project
+
+[1mdiff --git a/README.md b/README.md[m
+[1mdeleted file mode 100644[m
+[1mindex 8bb35e1..0000000[m
+[1m--- a/README.md[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-# guitar-couse-[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 89a2c56..42753bc 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -268,7 +268,7 @@[m
+     />[m
+     <meta[m
+       property="og:image"[m
+[31m-      content="./assets/img/Ảnh chụp màn hình 2024-03-31 235048.png"[m
+[32m+[m[32m      content="https://photos.app.goo.gl/Sv8VBzqeWYWRfvkj9"[m
+     />[m
+ [m
+     <script>[m
+[36m@@ -351,12 +351,12 @@[m
+             <strong>Guitar đệm hát</strong> cho người mới bắt đầu![m
+           </h1>[m
+           <p class="desc">[m
+[31m-            Thực hành[m
+[31m-            <strong class="text-highlight">30+ bài hát</strong> phổ biến,[m
+[31m-            <strong class="text-highlight">50+ bài học</strong> chi tiết nhất,[m
+[31m-            mua một lần học mãi mãi, bạn sẽ chơi được bản nhạc đầu tiên bằng[m
+[32m+[m[32m            Bạn sẽ chơi được bản nhạc đầu tiên bằng[m
+             <strong class="text-highlight">Guitar</strong> trong vòng[m
+[31m-            <strong class="text-highlight">20 giờ luyện tập</strong>.[m
+[32m+[m[32m            <strong class="text-highlight">20 giờ luyện tập</strong>[m
+[32m+[m[32m            <br />và trở thành trở thành "<strong class="text-highlight"[m
+[32m+[m[32m              >thỏi nam châm</strong[m
+[32m+[m[32m            >" kết nối mọi người.[m
+           </p>[m
+ [m
+           <div class="cta-wrap">[m
